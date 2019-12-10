@@ -1,0 +1,25 @@
+<svg width="197" height="198" viewBox="0 0 197 198" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle r="77.3644" transform="matrix(-0.94636 0.323115 0.323115 0.94636 98.4527 99.0402)" fill="#AAE8DF"/>
+<circle r="17.4593" transform="matrix(-0.94636 0.323115 0.323115 0.94636 148.509 81.9494)" fill="#569AD4"/>
+<circle r="17.4593" transform="matrix(-0.94636 0.323115 0.323115 0.94636 48.393 116.131)" fill="#569AD4"/>
+<circle r="17.4593" transform="matrix(-0.753006 -0.658014 -0.658014 0.753006 138.282 133.844)" fill="#569AD4"/>
+<circle r="17.4593" transform="matrix(-0.753006 -0.658014 -0.658014 0.753006 58.6223 64.2341)" fill="#569AD4"/>
+<circle r="17.4593" transform="matrix(0.193354 -0.981129 -0.981129 -0.193354 88.2252 150.935)" fill="#569AD4"/>
+<circle r="17.4593" transform="matrix(0.193354 -0.981129 -0.981129 -0.193354 108.678 47.1435)" fill="#569AD4"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="21" y="21" width="155" height="156">
+<circle r="77.3644" transform="matrix(-0.94636 0.323115 0.323115 0.94636 98.4527 99.0402)" fill="#AAE8DF"/>
+</mask>
+<g mask="url(#mask0)">
+<path d="M70.4551 18.0151L129.332 190.457" stroke="#E3FFFB" stroke-width="5.19249"/>
+<path d="M9.11135 82.5411L187.889 117.773" stroke="#E3FFFB" stroke-width="5.19249"/>
+<path d="M38.546 168.762L158.447 31.5526" stroke="#E3FFFB" stroke-width="5.19249"/>
+</g>
+<circle r="18.9595" transform="matrix(-0.94636 0.323115 0.323115 0.94636 98.1478 99.1429)" fill="#E3FFFB"/>
+<circle r="4.27869" transform="matrix(-0.94636 0.323115 0.323115 0.94636 110.418 94.9533)" fill="#569AD4"/>
+<circle r="4.27869" transform="matrix(-0.94636 0.323115 0.323115 0.94636 85.8817 103.33)" fill="#569AD4"/>
+<circle r="4.27869" transform="matrix(-0.753006 -0.658014 -0.658014 0.753006 107.911 107.672)" fill="#569AD4"/>
+<circle r="4.27869" transform="matrix(-0.753006 -0.658014 -0.658014 0.753006 88.3909 90.6132)" fill="#569AD4"/>
+<circle r="4.27869" transform="matrix(0.193354 -0.981129 -0.981129 -0.193354 95.6345 111.862)" fill="#569AD4"/>
+<circle r="4.27869" transform="matrix(0.193354 -0.981129 -0.981129 -0.193354 100.647 86.4263)" fill="#569AD4"/>
+<circle r="75.3644" transform="matrix(-0.94636 0.323115 0.323115 0.94636 98.4527 99.0402)" stroke="#569AD4" stroke-width="4"/>
+</svg>
